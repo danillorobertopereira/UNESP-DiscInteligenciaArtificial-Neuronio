@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/saumitgp/occupancy-detection-dataset
+
+https://archive.ics.uci.edu/dataset/53/iris
